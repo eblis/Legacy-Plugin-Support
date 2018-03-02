@@ -1,0 +1,3 @@
+LPS\Release\*.dll
+Bridge\Release\*.template
+docs\*.ini
